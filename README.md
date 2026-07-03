@@ -27,10 +27,6 @@ Watch **demo.mp4** in this repository to see the prototype animations.
 
 https://www.figma.com/proto/pc4KXvEeICyPb4ZRoCoe0X/cool-drinks?node-id=0-1&t=DySOm38VqitWaYZc-1
 
-##  Screenshots
-
-(Add your exported screenshots here.)
-
 ##  Author
 
 **Thurika R**
