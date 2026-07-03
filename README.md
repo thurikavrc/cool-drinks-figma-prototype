@@ -1,27 +1,36 @@
-# Cool Drinks – Mobile App UI Design
+#  Cool Drinks – Mobile App UI Prototype
 
-## Overview
+##  Overview
 
-Designed a high-fidelity mobile application prototype for a cool drinks ordering platform using Figma.
+Cool Drinks is a high-fidelity mobile application prototype designed using **Figma** for a beverage ordering platform. The project focuses on creating an intuitive and visually appealing user experience with interactive animations and seamless navigation.
 
-## Features
+##  Features
 
-- Interactive animations
-- Dynamic product selection
+- Interactive drink selection
+- Animated card transitions
+- Modern and responsive UI
 - User-friendly navigation
-- High-fidelity UI
-- Reusable components
+- Reusable UI components
+- High-fidelity prototype
 
-## Tools
+##  Tools Used
 
 - Figma
 - UI/UX Design
-- Prototyping
+- Interactive Prototyping
 
-## Live Prototype
+##  Demo
 
-https://www.figma.com/proto/pc4KXvEeICyPb4ZRoCoe0X/cool-drinks
+Watch **demo.mp4** in this repository to see the prototype animations.
 
-## Demo
+##  Live Prototype
 
-Watch demo.mp4 for the complete prototype walkthrough.
+https://www.figma.com/proto/pc4KXvEeICyPb4ZRoCoe0X/cool-drinks?node-id=0-1&t=DySOm38VqitWaYZc-1
+
+##  Screenshots
+
+(Add your exported screenshots here.)
+
+##  Author
+
+**Thurika R**
